@@ -34,4 +34,4 @@ The suspect unit status:
 - When the police unit reaches the suspect, the suspect's status is changed to Caught
 - When the police unit reaches the station, with the caught suspect, the suspect's status is changed to Jailed. The suspect is then unassigned from the police unit.
 
-![image-20200922085906113](H:\githubFiles\javaMutilthreads\image-20200922085906113.png)
+![image-20200922085906113](https://github.com/ssf531/javaMutilthreads-policeCatchSuspects/blob/master/image-20200922085906113.png)
